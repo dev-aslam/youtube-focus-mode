@@ -4,14 +4,14 @@ This Tampermonkey script is designed to transform the YouTube homepage into a di
 
 ### Installation
 
-1. **Install Tampermonkey**: 
-If you haven't already, install Tampermonkey for your browser from [tampermonkey.net](https://www.tampermonkey.net/).
+1. **Install Tampermonkey**:\
+  If you haven't already, install Tampermonkey for your browser from [tampermonkey.net](https://www.tampermonkey.net/).
 
-2. **Install the User Script**:
-Click [here](https://github.com/dev-aslam/youtube-focus-mode/raw/main/youtube_focus.user.js),document.head.appendChild(e)})()) to install the YouTube Focus Mode userscript.
+2. **Install the User Script**:\
+  Click [here](https://github.com/dev-aslam/youtube-focus-mode/raw/main/youtube_focus.user.js) to install the YouTube Focus Mode userscript.
 
-3. **Activate the Script**:
-Once installed, visit YouTube. The script should automatically transform the homepage to its focused mode.
+3. **Activate the Script**:\
+  Once installed, visit YouTube. The script should automatically transform the homepage to its focused mode.
 
 ### Disabling the Script
 
