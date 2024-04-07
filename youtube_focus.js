@@ -5,7 +5,9 @@
 // @description  Removes distractions from YouTube homepage, and sets theatre mode as default. Turns off comments on videos.
 // @author       Aslam
 // @match        https://www.youtube.com/*
+// @downloadURL  https://raw.githubusercontent.com/dev-aslam/youtube-focus-mode/main/youtube_focus.js
 // @grant        none
+// @icon         https://www.google.com/s2/favicons?sz=128&domain=youtube.com
 // ==/UserScript==
 
 (function() {
