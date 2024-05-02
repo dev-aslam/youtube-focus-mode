@@ -76,6 +76,10 @@
 
         const parent = document.getElementById("primary");
         parent.append(container);
+        
+        //remove unwanted margin
+        const page_manager = document.getElementById("page-manager");
+        page_manager.style.margin = 0;
     }
 
     //for other pages
